@@ -2,9 +2,7 @@
 
 Citi Bike Analytics Link to Tableau Public Workbook:
 
-https://public.tableau.com/views/CitiBikeAnalysisNYC2019-2020_17406826473380/CitiBikeTripInformation?:language=en-US&publish=yes&:sid=462C3841AA2A4DEA8D64C303B8BF373F-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-
+https://public.tableau.com/shared/MW5RPWJWH?:display_count=n&:origin=viz_share_link
 
 # Background
 
